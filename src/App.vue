@@ -9,7 +9,7 @@
     <!-- 这里的to对应的就是路由规则配置的path -->
     <div class="tabbar">
       <router-link to="/home">首页</router-link>
-      <router-link to="/market">闪送超市</router-link>
+      <router-link to="/market">闪送超市1111</router-link>
       <router-link to="/cart">购物车</router-link>
       <router-link to="/mine">我的</router-link>
     </div>
